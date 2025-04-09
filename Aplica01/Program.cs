@@ -11,8 +11,9 @@ namespace Aplica01
         static void Main(string[] args)
         {
             Console.Write("Bienvenidos al curso de C#");
+            Console.Write("Bienvenidos al curso de C#");
             Console.ReadKey();
 
-:        }
+       }
     }
 }
